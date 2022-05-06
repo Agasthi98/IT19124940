@@ -2,7 +2,7 @@
 //  Pizza.swift
 //  madAssignment3
 //
-//  Created by Ushini Avindika.
+//  Created by Agasthi Sankalana.
 //
 
 import Foundation

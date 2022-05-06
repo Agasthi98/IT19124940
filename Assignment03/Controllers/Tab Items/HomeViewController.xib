@@ -160,7 +160,7 @@
                 <constraint firstItem="z6d-f4-ELE" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="rGn-tw-J4B"/>
                 <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="z6d-f4-ELE" secondAttribute="bottom" id="wSM-op-hPE"/>
             </constraints>
-            <point key="canvasLocation" x="13.6" y="63.418290854572717"/>
+            <point key="canvasLocation" x="143" y="52"/>
         </view>
     </objects>
     <resources>
